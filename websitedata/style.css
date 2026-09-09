@@ -1,5 +1,6 @@
 .panel{
-	height: 1000px;
-    width: 1500px;
-    background-color: rgb(202, 70, 9);
+	height: 250px;
+    width: 250px;
+    background-color: rgb(40, 49, 176);
+    border: 5px solid black;
 }
