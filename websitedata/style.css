@@ -4,4 +4,9 @@
     background-color: rgb(40, 49, 176);
     border: 5px solid black;
 }
-s
+sidetoside{
+    float:left;
+    width: 100px;
+    height:100px
+    background-color:rgb(40, 49, 176);
+}
