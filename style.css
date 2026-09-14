@@ -1,0 +1,38 @@
+.panel{
+	height: 240px;
+    width: 250px;
+    background-color: rgb(40, 49, 176);
+    border: 5px solid black;
+}
+.projectsidebyside{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.projectssidebyside2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#sidetoside{
+    width: 500px;
+    height: 500px;
+}
+#righttoright{
+    width: 500px;
+    height: 500px;
+    overflow: hidden;
+}
+.linkblock{
+    display: inline-block;
+    padding: 8px 12px;
+    background-color: rgb(248, 251, 250);
+}
+.darkblock{
+    height:200px;
+    width:1000;
+    background-color:rgb(1, 2, 15);
+}
+.contact{
+    color:aliceblue;
+}
